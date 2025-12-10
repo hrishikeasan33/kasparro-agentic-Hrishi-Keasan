@@ -79,21 +79,43 @@ A premium UI with:
 ---
 
 ## 📂 **Folder Structure**
-project/
-│
-├── agents/                         # Multi-agent logic for FAQ, Product, Comparison
-│
-├── data/                           # Input product data and prompt assets
-│
-├── logic_blocks/                   # Modular logic units (prompting, validation, parsing)
-│
-├── output/                         # Generated JSON files
-│   ├── faq.json
-│   ├── product_page.json
-│   └── comparison_page.json
-│
-├── templates/                      # Reusable templates for structured generation
-│
-├── app.py                          # Streamlit UI for interactive visualization
-│
-└── main.py                         # Main pipeline orchestrator
+<img width="788" height="662" alt="image" src="https://github.com/user-attachments/assets/7a3c82c8-bc65-4be8-be71-730a2e5a5c1f" />
+
+
+---
+
+## ▶️ How to Run Locally
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
+Run the agent pipeline
+bash
+Copy code
+python main.py
+Launch the Streamlit UI
+bash
+Copy code
+streamlit run app.py
+🚀 Deployment (Google Colab)
+bash
+Copy code
+!npm install -g localtunnel
+!streamlit run app.py --server.port 8501 --server.address 0.0.0.0 &
+!lt --port 8501
+🧪 Technologies Used
+Python
+
+Streamlit
+
+Multi-Agent AI Architecture
+
+JSON-based content generation
+
+Custom templates
+
+LocalTunnel for deployment
+
+👨‍💻 Author
+Hrishikeasan N.P
+Applied AI Engineer | Multi-Agent Architect | NLP Developer
