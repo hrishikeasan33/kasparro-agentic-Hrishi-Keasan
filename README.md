@@ -55,22 +55,26 @@ A premium UI with:
 ## 📸 **Screenshots**
 
 ### 🖼 FAQ Page  
-![FAQ Page](Screenshot%202025-12-10%20114027.png)
+![FAQ Page]<img width="1849" height="812" alt="image" src="https://github.com/user-attachments/assets/b0c8676d-cd91-48bf-bbf0-97ac91601a30" />
+
 
 ---
 
 ### 🖼 Comparison Page – Top Section  
-![Comparison Top](Screenshot%202025-12-10%20114045.png)
+![Comparison Top]<img width="1863" height="862" alt="image" src="https://github.com/user-attachments/assets/3fc8f882-585e-43a8-8acb-52f6a6f09358" />
+
 
 ---
 
 ### 🖼 Comparison Page – Mid Section  
-![Comparison Mid](Screenshot%202025-12-10%20114054.png)
+<img width="1821" height="797" alt="image" src="https://github.com/user-attachments/assets/3d9cb696-689a-4c6e-831b-39ce4474bc77" />
+
 
 ---
 
 ### 🖼 Comparison Page – Final Price Verdict  
-![Comparison Verdict](Screenshot%202025-12-10%20114106.png)
+<img width="1845" height="469" alt="image" src="https://github.com/user-attachments/assets/496696ed-8eba-4935-b2f7-01d333ad079f" />
+
 
 ---
 
