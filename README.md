@@ -29,6 +29,9 @@ The solution is built using AI agents, template-driven generation, logic blocks,
 ## 🧩 **System Architecture Diagram**
 <img width="614" height="822" alt="Screenshot 2025-12-10 140259" src="https://github.com/user-attachments/assets/43276137-38f0-4b82-8200-c145d84917d8" />
 
+## 🧩 **Workflow Diagram**
+<img width="961" height="498" alt="Screenshot 2025-12-10 151045" src="https://github.com/user-attachments/assets/028090a4-0649-4957-8579-8954d34fd62c" />
+
 
 ## 🧠 **System Features**
 
@@ -54,11 +57,14 @@ A premium UI with:
 - Price verdict section  
 
 ---
+## 🧠 **Complete System Workflow**
+<img width="770" height="631" alt="Screenshot 2025-12-10 155621" src="https://github.com/user-attachments/assets/893612f0-ab35-4ff9-acf7-8ac0b09b0b58" />
+
 
 ## 📸 **Screenshots**
 
 ### 🖼 FAQ Page  
-![FAQ Page]<img width="1849" height="812" alt="image" src="https://github.com/user-attachments/assets/b0c8676d-cd91-48bf-bbf0-97ac91601a30" />
+![FAQ Page]<img width="1849" height="812" alt="image" src="https://github.com/user-attachments/assets/b0c8676d-cd91-48bf-bbf0-97ac91601a30" />C
 
 
 ---
