@@ -79,5 +79,75 @@ A premium UI with:
 ---
 
 ## 📂 **Folder Structure**
+project/
+│
+├── agents/ # Multi-agent logic for FAQ, Product, Comparison
+├── data/ # Input product data and prompt assets
+├── logic_blocks/ # Modular logic units (prompting, validation, parsing)
+├── output/ # Generated JSON files (faq.json, product_page.json, comparison_page.json)
+├── templates/ # Reusable templates for structured generation
+│
+├── app.py # Streamlit UI for interactive visualization
+├── main.py # Main pipeline orchestrator
 
+
+
+---
+
+🔧 Installation
+Prerequisites
+
+Python 3.8 or higher
+pip (Python package installer)
+Git (for cloning the repository)
+
+Local Setup
+
+Clone the repository
+
+bashgit clone https://github.com/yourusername/multi-agent-content-generator.git
+cd multi-agent-content-generator
+
+Create a virtual environment (recommended)
+
+bashpython -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+Install dependencies
+
+bashpip install -r requirements.txt
+
+Set up environment variables
+
+bashcp .env.example .env
+# Edit .env and add your API keys
+🚀 Usage
+Running the Agent Pipeline
+Execute the main agent pipeline:
+bashpython main.py
+Launch the Streamlit UI
+Start the interactive web interface:
+bashstreamlit run app.py
+The application will open in your default browser at http://localhost:8501
+Command Line Options
+bash# Run with specific configuration
+python main.py --config config.yaml
+
+# Run with custom output directory
+python main.py --output ./outputs
+
+# Run in verbose mode
+python main.py --verbose
+🌐 Deployment
+Google Colab Deployment
+Deploy the application quickly on Google Colab with public access:
+bash# Install LocalTunnel
+!npm install -g localtunnel
+
+# Run Streamlit in the background
+!streamlit run app.py --server.port 8501 --server.address 0.0.0.0 &
+
+# Create public tunnel
+!lt --port 8501
+After running these commands, you'll receive a public URL to access your application.
 
