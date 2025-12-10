@@ -26,6 +26,9 @@ It generates:
 The solution is built using AI agents, template-driven generation, logic blocks, and a clean UI dashboard.
 
 ---
+## 🧩 **System Architecture Diagram**
+<img width="614" height="822" alt="Screenshot 2025-12-10 140259" src="https://github.com/user-attachments/assets/43276137-38f0-4b82-8200-c145d84917d8" />
+
 
 ## 🧠 **System Features**
 
