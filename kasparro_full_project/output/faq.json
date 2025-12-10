@@ -1,0 +1,50 @@
+{
+  "product_name": "GlowBoost Vitamin C Serum",
+  "faqs": [
+    {
+      "question": "What is GlowBoost Vitamin C Serum and what does it do?",
+      "category": "Informational",
+      "answer": "Vitamin C brightens skin and fades pigmentation."
+    },
+    {
+      "question": "What is the concentration in GlowBoost Vitamin C Serum?",
+      "category": "Informational",
+      "answer": "Vitamin C brightens skin and fades pigmentation."
+    },
+    {
+      "question": "How do I use GlowBoost Vitamin C Serum?",
+      "category": "Usage",
+      "answer": "Apply 2\u20133 drops in the morning before sunscreen"
+    },
+    {
+      "question": "Can GlowBoost Vitamin C Serum be used daily?",
+      "category": "Usage",
+      "answer": "Apply 2\u20133 drops in the morning before sunscreen"
+    },
+    {
+      "question": "Are there any side effects of GlowBoost Vitamin C Serum?",
+      "category": "Safety",
+      "answer": "Mild tingling for sensitive skin"
+    },
+    {
+      "question": "Is GlowBoost Vitamin C Serum safe for sensitive skin?",
+      "category": "Safety",
+      "answer": "Mild tingling for sensitive skin"
+    },
+    {
+      "question": "What are the benefits of using GlowBoost Vitamin C Serum?",
+      "category": "Benefits",
+      "answer": "Brightening, Fades dark spots"
+    },
+    {
+      "question": "How much does GlowBoost Vitamin C Serum cost?",
+      "category": "Purchase",
+      "answer": "The price is \u20b9699."
+    },
+    {
+      "question": "How does GlowBoost Vitamin C Serum compare to Product B?",
+      "category": "Comparison",
+      "answer": "Both products share Vitamin C but differ in remaining ingredients."
+    }
+  ]
+}

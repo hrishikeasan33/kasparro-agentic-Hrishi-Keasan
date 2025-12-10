@@ -1,0 +1,59 @@
+{
+  "product_A": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "how_to_use": "Apply 2\u20133 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": "\u20b9699"
+  },
+  "product_B": {
+    "name": "LumaRadiance Vitamin C Serum",
+    "concentration": "12% Vitamin C",
+    "skin_type": [
+      "Dry",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "benefits": [
+      "Brightening",
+      "Hydration"
+    ],
+    "how_to_use": "Apply 2 drops morning and night",
+    "side_effects": "May cause dryness",
+    "price": "\u20b9799"
+  },
+  "comparison_points": [
+    {
+      "point": "price",
+      "A": "\u20b9699",
+      "B": "\u20b9799"
+    },
+    {
+      "point": "ingredients",
+      "shared": [
+        "Vitamin C"
+      ],
+      "only_A": [
+        "Hyaluronic Acid"
+      ],
+      "only_B": [
+        "Vitamin E"
+      ]
+    }
+  ]
+}
