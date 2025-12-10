@@ -86,36 +86,101 @@ A premium UI with:
 
 ## ▶️ How to Run Locally
 
-### Install dependencies
+### 🔧 Installation
+
+#### **Prerequisites**
+- Python 3.8+
+- pip
+- Git
+
+---
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/yourusername/multi-agent-content-generator.git
+cd multi-agent-content-generator
+```
+
+---
+
+### **2. Create a Virtual Environment (Recommended)**
+```bash
+python -m venv venv
+```
+
+**Activate the environment:**
+
+**Windows**
+```bash
+venv\Scripts\activate
+```
+
+**macOS / Linux**
+```bash
+source venv/bin/activate
+```
+
+---
+
+### **3. Install Dependencies**
 ```bash
 pip install -r requirements.txt
-Run the agent pipeline
-bash
-Copy code
+```
+
+---
+
+### **4. (Optional) Set Up Environment Variables**
+```bash
+cp .env.example .env
+```
+Edit `.env` and add API keys if required.
+
+---
+
+## 🚀 Usage
+
+### **1. Run the Agent Pipeline**
+```bash
 python main.py
-Launch the Streamlit UI
-bash
-Copy code
+```
+
+### **2. Launch the Streamlit UI**
+```bash
 streamlit run app.py
-🚀 Deployment (Google Colab)
-bash
-Copy code
+```
+
+App will be available at:
+```
+http://localhost:8501
+```
+
+---
+
+## 🌐 Deployment (Google Colab)
+
+```bash
 !npm install -g localtunnel
 !streamlit run app.py --server.port 8501 --server.address 0.0.0.0 &
 !lt --port 8501
-🧪 Technologies Used
-Python
+```
 
-Streamlit
+You will get a public URL:
+```
+https://<random-name>.loca.lt
+```
 
-Multi-Agent AI Architecture
+---
 
-JSON-based content generation
+## 🧪 Technologies Used
+- Python  
+- Streamlit  
+- Multi-Agent AI Architecture  
+- JSON-based content generation  
+- Custom templates  
+- LocalTunnel  
 
-Custom templates
+---
 
-LocalTunnel for deployment
-
-👨‍💻 Author
-Hrishikeasan N.P
-Applied AI Engineer | Multi-Agent Architect | NLP Developer
+## 👨‍💻 Author
+**Hrishikeasan N.P**  
+Applied AI Engineer • Multi-Agent Architect • NLP Developer
